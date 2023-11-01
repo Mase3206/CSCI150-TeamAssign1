@@ -1,0 +1,12 @@
+{
+	"recommendations": [
+		"github.vscode-pull-request-github",
+		"visualstudioexptteam.vscodeintellicode",
+		"ms-python.vscode-pylance",
+		"ms-python.python",
+		"donjayamanne.python-environment-manager",
+		"ms-vscode.remote-repositories",
+		"ms-python.isort",
+		"eamodio.gitlens"
+	]
+}
