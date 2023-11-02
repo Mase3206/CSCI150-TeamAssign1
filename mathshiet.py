@@ -2,7 +2,8 @@
 #Or he makes me make complicated ones if he's mean
 
 def add(num1 = 0, num2 = 0) :
-    return (num1 + num2)
+    return (num1 + num2)		# returns don't need parentheses around them
+								# for example, this could be: `return num1 + num2
 
 def subtract(num1 = 0, num2 = 0) :
     return (num1 - num2)
